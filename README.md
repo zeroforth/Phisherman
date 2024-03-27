@@ -1,6 +1,9 @@
 # Phisherman
 Phisherman is an anti phishing tool that can detect malicious URLs withing SMS you get .
 Works on Python + Flask web framework with VirusTotal API at the backend.
+- Also supports shortened URLs and links
+- Hosted on AWS using EC2 and S3
 
-> Also supports shortened URLs and links
-> Hosted on AWS using EC2 and S3
+![screenshot](pman1.png)
+
+![screenshot](pman2.png)
